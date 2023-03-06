@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+#title{
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #da0463;
+}
+#drums{
+  margin: 15% 0 15% 0;
+}
+.w-drum{
+  background: url(images/crash.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.a-drum{
+  background-image: url(images/tom1.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.s-drum{
+  background: url(images/kick.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.d-drum{
+  background-image: url(images/tom2.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.j-drum{
+  background: url(images/snare.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.k-drum{
+  background: url(images/tom3.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.l-drum{
+  background: url(images/tom4.png);
+  font-size: 6rem;
+  display: inline;
+  margin: 30px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #404B69;
+  font-family: 'Arvo', cursive;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbedf3;
+  height: 150px;
+  width: 150px;
+}
+.pressed{
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+footer {
+  font-size: 1rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+}
